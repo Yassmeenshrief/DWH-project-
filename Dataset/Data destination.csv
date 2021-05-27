@@ -1,0 +1,87 @@
+School ID,Q1(%),Q2(%),Q3(%),Q4(%),School,Board,Num students,Level 1 (%),Level 2 (%),Level 3 (%),Level 4 (%),Num F,Num M,Q8(%),Q11(%),Q5(%),Q6(%),Q7(%),School UPPER,Board lower,School lenght,Board Reverse,School Left,School Right,Total male and female
+890723,43,47,40,27,Agincourt CI,Toronto DSB,263,1,7,73,18,138,125,32,59,69,32,59,AGINCOURT CI,toronto dsb,12,BSD otnoroT,Agi, CI,263
+890880,60,48,38,46,Albert Campbell CI,Toronto DSB,250,6,10,70,13,116,134,48,57,72,40,66,ALBERT CAMPBELL CI,toronto dsb,18,BSD otnoroT,Alb, CI,250
+892203,60,52,37,38,Applewood Heights SS,Peel District School Board,184,8,11,74,4,89,95,34,58,75,23,65,APPLEWOOD HEIGHTS SS,peel district school board,20,draoB loohcS tcirtsiD leeP,App, SS,184
+895016,46,47,38,39,Birchmount Park CI,Toronto DSB,127,6,23,66,2,53,74,28,54,59,19,68,BIRCHMOUNT PARK CI,toronto dsb,18,BSD otnoroT,Bir, CI,127
+895920,54,49,39,36,Bramalea SS,Peel District School Board,165,9,18,68,4,67,98,35,61,70,22,72,BRAMALEA SS,peel district school board,11,draoB loohcS tcirtsiD leeP,Bra, SS,165
+896055,62,50,48,47,Brampton Centennial SS,Peel District School Board,151,6,8,77,9,70,81,40,61,77,27,72,BRAMPTON CENTENNIAL SS,peel district school board,22,draoB loohcS tcirtsiD leeP,Bra, SS,151
+897744,51,47,34,38,C W Jefferys CI,Toronto DSB,109,17,23,50,7,51,58,35,62,68,28,69,C W JEFFERYS CI,toronto dsb,15,BSD otnoroT,C W, CI,109
+898090,69,66,56,52,Cameron Heights CI,Waterloo Region DSB,348,3,7,70,19,196,152,39,63,81,40,81,CAMERON HEIGHTS CI,waterloo region dsb,18,BSD noigeR oolretaW,Cam, CI,348
+898910,40,40,33,20,Rosedale Heights School of the Arts,Toronto DSB,185,6,12,76,4,150,35,19,38,61,24,57,ROSEDALE HEIGHTS SCHOOL OF THE ARTS,toronto dsb,35,BSD otnoroT,Ros,rts,185
+899003,49,50,44,33,Cawthra Park SS,Peel District School Board,305,2,5,73,20,213,92,29,55,70,22,66,CAWTHRA PARK SS,peel district school board,15,draoB loohcS tcirtsiD leeP,Caw, SS,305
+899178,46,43,32,31,Cedarbrae CI,Toronto DSB,206,15,21,57,5,119,87,34,61,61,24,67,CEDARBRAE CI,toronto dsb,12,BSD otnoroT,Ced, CI,206
+901342,68,68,57,51,Chinguacousy SS,Peel District School Board,171,4,9,73,14,63,108,44,69,80,51,74,CHINGUACOUSY SS,peel district school board,15,draoB loohcS tcirtsiD leeP,Chi, SS,171
+901660,50,43,33,34,Clarkson SS,Peel District School Board,134,9,13,70,7,69,65,27,53,62,18,67,CLARKSON SS,peel district school board,11,draoB loohcS tcirtsiD leeP,Cla, SS,134
+903469,71,63,63,57,Danforth CI & TS,Toronto DSB,130,3,8,72,14,49,81,43,72,77,51,64,DANFORTH CI & TS,toronto dsb,16,BSD otnoroT,Dan, TS,130
+903590,51,41,42,30,David & Mary Thomson CI,Toronto DSB,133,13,23,56,5,53,80,29,42,65,27,60,DAVID & MARY THOMSON CI,toronto dsb,23,BSD otnoroT,Dav, CI,133
+904203,47,44,40,34,Louise Arbour S.S.,Peel District School Board,270,9,13,74,5,121,149,29,59,73,23,72,LOUISE ARBOUR S.S.,peel district school board,18,draoB loohcS tcirtsiD leeP,Lou,.S.,270
+906450,58,53,47,40,Earl Haig SS,Toronto DSB,385,2,5,67,26,226,159,36,55,75,34,62,EARL HAIG SS,toronto dsb,12,BSD otnoroT,Ear, SS,385
+906840,54,58,39,37,East York CI,Toronto DSB,133,8,16,68,4,64,69,39,58,76,36,70,EAST YORK CI,toronto dsb,12,BSD otnoroT,Eas, CI,133
+907499,49,42,38,34,Eastwood CI,Waterloo Region DSB,188,9,18,69,2,116,72,34,50,67,21,69,EASTWOOD CI,waterloo region dsb,11,BSD noigeR oolretaW,Eas, CI,188
+908142,39,52,44,26,Elmira DSS,Waterloo Region DSB,158,1,9,77,13,76,82,22,50,66,22,64,ELMIRA DSS,waterloo region dsb,10,BSD noigeR oolretaW,Elm,DSS,158
+909572,65,55,61,47,Etobicoke CI,Toronto DSB,142,0,1,81,17,75,67,37,64,80,28,68,ETOBICOKE CI,toronto dsb,12,BSD otnoroT,Eto, CI,142
+909602,48,41,45,28,Etobicoke School of the Arts,Toronto DSB,234,1,7,85,7,157,77,18,41,64,22,61,ETOBICOKE SCHOOL OF THE ARTS,toronto dsb,28,BSD otnoroT,Eto,rts,234
+909673,61,59,43,45,David Suzuki Secondary School,Peel District School Board,368,8,17,67,7,173,195,36,57,73,34,66,DAVID SUZUKI SECONDARY SCHOOL,peel district school board,29,draoB loohcS tcirtsiD leeP,Dav,ool,368
+910058,45,43,40,28,Fletcher`s Meadow SS,Peel District School Board,201,5,15,75,3,96,105,37,60,77,17,69,FLETCHER`S MEADOW SS,peel district school board,20,draoB loohcS tcirtsiD leeP,Fle, SS,201
+910350,53,56,48,34,Forest Heights CI,Waterloo Region DSB,183,7,17,65,8,88,95,33,52,67,30,73,FOREST HEIGHTS CI,waterloo region dsb,17,BSD noigeR oolretaW,For, CI,183
+910481,55,54,42,32,Forest Hill CI,Toronto DSB,171,1,10,70,18,87,84,34,52,72,18,65,FOREST HILL CI,toronto dsb,14,BSD otnoroT,For, CI,171
+911399,62,60,49,46,Galt C & VI,Waterloo Region DSB,147,3,13,77,6,78,69,21,45,75,29,80,GALT C & VI,waterloo region dsb,11,BSD noigeR oolretaW,Gal, VI,147
+913189,61,55,50,44,Glenforest SS,Peel District School Board,290,2,5,57,36,143,147,47,64,78,32,68,GLENFOREST SS,peel district school board,13,draoB loohcS tcirtsiD leeP,Gle, SS,290
+913863,68,65,59,50,Gordon Graydon Memorial SS,Peel District School Board,140,0,4,81,15,56,84,46,70,86,40,78,GORDON GRAYDON MEMORIAL SS,peel district school board,26,draoB loohcS tcirtsiD leeP,Gor, SS,140
+914070,61,60,53,45,Grand River CI,Waterloo Region DSB,207,7,11,70,7,86,121,36,66,77,28,75,GRAND RIVER CI,waterloo region dsb,14,BSD noigeR oolretaW,Gra, CI,207
+915688,55,50,41,39,Harbord CI,Toronto DSB,240,3,10,75,12,109,131,31,54,73,25,65,HARBORD CI,toronto dsb,10,BSD otnoroT,Har, CI,240
+916269,58,59,47,40,Heart Lake SS,Peel District School Board,221,7,13,70,9,100,121,31,55,73,38,69,HEART LAKE SS,peel district school board,13,draoB loohcS tcirtsiD leeP,Hea, SS,221
+917559,52,53,46,36,Humberview Secondary School,Peel District School Board,203,4,15,76,5,98,105,24,53,75,28,70,HUMBERVIEW SECONDARY SCHOOL,peel district school board,27,draoB loohcS tcirtsiD leeP,Hum,ool,203
+917630,55,53,47,39,Humberside CI,Toronto DSB,218,1,6,82,10,119,99,25,51,73,25,65,HUMBERSIDE CI,toronto dsb,13,BSD otnoroT,Hum, CI,218
+917931,57,57,46,42,Huron Heights SS,Waterloo Region DSB,216,3,18,71,8,100,116,29,57,75,38,73,HURON HEIGHTS SS,waterloo region dsb,16,BSD noigeR oolretaW,Hur, SS,216
+918440,66,62,56,52,Turner Fenton SS,Peel District School Board,397,1,8,65,25,213,184,45,65,84,37,73,TURNER FENTON SS,peel district school board,16,draoB loohcS tcirtsiD leeP,Tur, SS,397
+918547,53,44,37,39,Jarvis CI,Toronto DSB,158,12,27,57,3,86,72,35,56,68,35,64,JARVIS CI,toronto dsb,9,BSD otnoroT,Jar, CI,158
+918555,52,54,47,32,Jacob Hespeler SS,Waterloo Region DSB,148,4,12,72,7,63,85,22,55,70,23,71,JACOB HESPELER SS,waterloo region dsb,17,BSD noigeR oolretaW,Jac, SS,148
+918830,67,60,52,49,John Fraser SS,Peel District School Board,258,1,6,71,22,121,137,48,64,82,33,70,JOHN FRASER SS,peel district school board,14,draoB loohcS tcirtsiD leeP,Joh, SS,258
+920495,48,61,52,36,Kitchener Waterloo C & VS,Waterloo Region DSB,210,4,9,75,10,112,98,29,55,79,38,76,KITCHENER WATERLOO C & VS,waterloo region dsb,25,BSD noigeR oolretaW,Kit, VS,210
+922056,53,54,51,33,Lawrence Park CI,Toronto DSB,301,1,4,80,14,139,162,32,60,69,23,62,LAWRENCE PARK CI,toronto dsb,16,BSD otnoroT,Law, CI,301
+922498,58,54,40,45,Lester B Pearson CI,Toronto DSB,213,7,11,75,5,100,113,46,63,76,28,73,LESTER B PEARSON CI,toronto dsb,19,BSD otnoroT,Les, CI,213
+924008,52,56,52,35,Lorne Park SS,Peel District School Board,275,4,11,70,16,152,123,29,58,75,31,67,LORNE PARK SS,peel district school board,13,draoB loohcS tcirtsiD leeP,Lor, SS,275
+924520,41,51,50,27,Malvern CI,Toronto DSB,201,1,7,81,9,98,103,23,55,64,24,57,MALVERN CI,toronto dsb,10,BSD otnoroT,Mal, CI,201
+925136,56,53,48,42,Martingrove CI,Toronto DSB,239,5,8,66,21,113,126,34,66,75,33,65,MARTINGROVE CI,toronto dsb,14,BSD otnoroT,Mar, CI,239
+925349,56,55,44,40,Mayfield SS,Peel District School Board,385,4,10,77,9,240,145,29,55,72,27,73,MAYFIELD SS,peel district school board,11,draoB loohcS tcirtsiD leeP,May, SS,385
+925535,57,52,46,44,Mississauga Secondary School,Peel District School Board,266,2,10,79,8,129,137,33,61,82,35,77,MISSISSAUGA SECONDARY SCHOOL,peel district school board,28,draoB loohcS tcirtsiD leeP,Mis,ool,266
+925551,56,56,51,41,Meadowvale SS,Peel District School Board,252,3,12,77,8,118,134,32,58,78,28,71,MEADOWVALE SS,peel district school board,13,draoB loohcS tcirtsiD leeP,Mea, SS,252
+927384,52,44,35,35,Monarch Park Collegiate,Toronto DSB,148,5,14,68,8,90,58,28,41,66,20,63,MONARCH PARK COLLEGIATE,toronto dsb,23,BSD otnoroT,Mon,ate,148
+928810,48,39,38,36,Newtonbrook SS,Toronto DSB,156,11,14,62,9,76,80,35,50,65,26,62,NEWTONBROOK SS,toronto dsb,14,BSD otnoroT,New, SS,156
+929468,67,50,39,47,North Albion CI,Toronto DSB,131,7,9,79,3,73,58,51,70,82,34,71,NORTH ALBION CI,toronto dsb,15,BSD otnoroT,Nor, CI,131
+930504,56,59,50,39,North Toronto CI,Toronto DSB,276,4,9,69,18,163,113,29,55,75,33,61,NORTH TORONTO CI,toronto dsb,16,BSD otnoroT,Nor, CI,276
+930660,60,53,46,46,North Park SS,Peel District School Board,289,2,12,74,11,120,169,44,68,74,29,73,NORTH PARK SS,peel district school board,13,draoB loohcS tcirtsiD leeP,Nor, SS,289
+930768,52,55,50,35,Northern SS,Toronto DSB,383,4,5,67,22,165,218,30,53,73,27,56,NORTHERN SS,toronto dsb,11,BSD otnoroT,Nor, SS,383
+931020,62,56,48,44,Northview Heights SS,Toronto DSB,291,2,6,71,19,139,152,40,60,74,29,70,NORTHVIEW HEIGHTS SS,toronto dsb,20,BSD otnoroT,Nor, SS,291
+933198,66,57,48,57,Marc Garneau CI,Toronto DSB,238,3,14,62,19,103,135,39,61,76,35,66,MARC GARNEAU CI,toronto dsb,15,BSD otnoroT,Mar, CI,238
+933759,55,39,36,48,Parkdale CI,Toronto DSB,125,14,15,58,8,60,65,51,50,67,15,62,PARKDALE CI,toronto dsb,11,BSD otnoroT,Par, CI,125
+935832,63,56,52,48,Port Credit SS,Peel District School Board,224,2,6,73,19,87,137,46,68,84,33,70,PORT CREDIT SS,peel district school board,14,draoB loohcS tcirtsiD leeP,Por, SS,224
+936480,41,48,41,24,Preston HS,Waterloo Region DSB,149,1,11,78,7,83,66,25,55,63,21,70,PRESTON HS,waterloo region dsb,10,BSD noigeR oolretaW,Pre, HS,149
+937266,60,56,49,42,R H King Academy,Toronto DSB,231,1,12,82,5,123,108,31,58,77,34,68,R H KING ACADEMY,toronto dsb,16,BSD otnoroT,R H,emy,231
+937592,45,38,33,30,Dr Norman Bethune CI,Toronto DSB,185,1,7,64,28,95,90,30,58,71,25,61,DR NORMAN BETHUNE CI,toronto dsb,20,BSD otnoroT,Dr , CI,185
+938009,63,58,45,43,Rick Hansen SS,Peel District School Board,343,2,8,77,13,169,174,45,61,80,34,77,RICK HANSEN SS,peel district school board,14,draoB loohcS tcirtsiD leeP,Ric, SS,343
+938173,50,52,49,34,Richview CI,Toronto DSB,222,1,7,83,9,111,111,30,62,68,27,61,RICHVIEW CI,toronto dsb,11,BSD otnoroT,Ric, CI,222
+939080,51,44,40,35,Riverdale CI,Toronto DSB,237,2,7,78,14,113,124,41,56,70,26,56,RIVERDALE CI,toronto dsb,12,BSD otnoroT,Riv, CI,237
+939596,61,55,46,38,Sandalwood Heights,Peel District School Board,222,3,10,80,7,99,123,39,69,77,31,68,SANDALWOOD HEIGHTS,peel district school board,18,draoB loohcS tcirtsiD leeP,San,hts,222
+941425,42,48,41,33,Silverthorn CI,Toronto DSB,142,3,11,75,10,66,76,33,58,78,22,63,SILVERTHORN CI,toronto dsb,14,BSD otnoroT,Sil, CI,142
+941948,50,50,43,41,Sir John A Macdonald CI,Toronto DSB,168,2,9,74,14,80,88,36,59,70,28,59,SIR JOHN A MACDONALD CI,toronto dsb,23,BSD otnoroT,Sir, CI,168
+941972,45,55,44,30,Sir Oliver Mowat CI,Toronto DSB,186,5,12,74,9,81,105,30,59,73,30,58,SIR OLIVER MOWAT CI,toronto dsb,19,BSD otnoroT,Sir, CI,186
+942006,54,60,49,44,Sir John A Macdonald SS,Waterloo Region DSB,248,2,7,65,25,118,130,37,58,80,36,74,SIR JOHN A MACDONALD SS,waterloo region dsb,23,BSD noigeR oolretaW,Sir, SS,248
+942200,54,56,44,41,Sir Wilfrid Laurier CI,Toronto DSB,267,9,18,58,11,142,125,36,62,66,30,63,SIR WILFRID LAURIER CI,toronto dsb,22,BSD otnoroT,Sir, CI,267
+943894,50,60,45,34,Southwood SS,Waterloo Region DSB,140,5,16,74,4,70,70,31,50,72,34,70,SOUTHWOOD SS,waterloo region dsb,12,BSD noigeR oolretaW,Sou, SS,140
+943916,53,43,29,32,Harold M. Brathwaite Secondary School,Peel District School Board,159,4,13,75,8,70,89,24,60,68,24,71,HAROLD M. BRATHWAITE SECONDARY SCHOOL,peel district school board,37,draoB loohcS tcirtsiD leeP,Har,ool,159
+945978,53,45,37,39,Streetsville SS,Peel District School Board,185,5,11,76,8,87,98,28,58,66,21,62,STREETSVILLE SS,peel district school board,15,draoB loohcS tcirtsiD leeP,Str, SS,185
+949027,43,47,37,25,Ursula Franklin Academy,Toronto DSB,117,2,5,79,14,57,60,27,56,60,20,48,URSULA FRANKLIN ACADEMY,toronto dsb,23,BSD otnoroT,Urs,emy,117
+949353,74,64,58,53,Victoria Park CI,Toronto DSB,257,3,5,53,37,116,141,45,67,80,42,73,VICTORIA PARK CI,toronto dsb,16,BSD otnoroT,Vic, CI,257
+949744,69,62,57,59,SATEC@W A Porter CI,Toronto DSB,272,1,9,71,18,94,178,48,75,85,39,78,SATEC@W A PORTER CI,toronto dsb,19,BSD otnoroT,SAT, CI,272
+950130,79,76,70,63,W L Mackenzie CI,Toronto DSB,251,2,3,47,47,106,145,45,75,87,42,75,W L MACKENZIE CI,toronto dsb,16,BSD otnoroT,W L, CI,251
+950912,57,57,47,39,Waterloo CI,Waterloo Region DSB,203,1,8,68,21,109,94,30,57,73,39,65,WATERLOO CI,waterloo region dsb,11,BSD noigeR oolretaW,Wat, CI,203
+951749,52,55,44,45,West Humber CI,Toronto DSB,144,4,15,73,7,75,69,32,57,76,36,69,WEST HUMBER CI,toronto dsb,14,BSD otnoroT,Wes, CI,144
+952605,55,57,48,38,Weston CI,Toronto DSB,124,16,8,69,4,64,60,41,55,75,33,66,WESTON CI,toronto dsb,9,BSD otnoroT,Wes, CI,124
+952885,65,57,51,44,Lincoln M. Alexander S.S.,Peel District School Board,128,4,12,69,14,53,75,54,66,80,31,72,LINCOLN M. ALEXANDER S.S.,peel district school board,25,draoB loohcS tcirtsiD leeP,Lin,.S.,128
+952990,45,40,32,35,Wexford CI,Toronto DSB,193,5,19,72,4,136,57,29,42,70,23,69,WEXFORD CI,toronto dsb,10,BSD otnoroT,Wex, CI,193
+954160,57,57,48,48,Woburn CI,Toronto DSB,205,3,6,78,13,89,116,37,66,72,40,56,WOBURN CI,toronto dsb,9,BSD otnoroT,Wob, CI,205
+954403,60,53,47,47,The Woodlands School,Peel District School Board,215,4,6,60,29,100,115,48,60,77,32,73,THE WOODLANDS SCHOOL,peel district school board,20,draoB loohcS tcirtsiD leeP,The,ool,215
+954683,61,55,44,51,York Memorial CI,Toronto DSB,210,13,18,57,10,96,114,38,56,68,39,67,YORK MEMORIAL CI,toronto dsb,16,BSD otnoroT,Yor, CI,210
+962646,56,56,48,42,Stephen Lewis SS,Peel District School Board,333,3,9,79,10,157,176,36,71,81,30,73,STEPHEN LEWIS SS,peel district school board,16,draoB loohcS tcirtsiD leeP,Ste, SS,333
